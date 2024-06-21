@@ -1,0 +1,27 @@
+.card{
+    
+    border: none;
+    box-shadow: 0px 0px 33px -10px rgba(71, 114, 254, 0.3);
+}
+
+input[type=text]{
+    height: 60px;
+    padding-left: 20px;
+    font-size: 13px;
+    width: 100%;
+    
+}
+
+.textarea{
+    padding-left: 20px;
+    font-size: 13px;
+    width: 100%;
+}
+.btn{
+    margin-top: 25px;
+    height: 50px;
+    border: none;
+    font-size: 13px;
+    background-color: var(--primary-color);
+    color: white;
+}
